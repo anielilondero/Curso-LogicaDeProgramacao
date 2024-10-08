@@ -22,9 +22,3 @@ Este projeto foi desenvolvido como parte do curso **"Mergulhe em Programação c
 3. O sistema dará um feedback se o número inserido é maior ou menor que o número secreto.
 4. O jogo mantém o controle do número de tentativas até que o jogador acerte.
 5. Quando o jogador acerta, o número de tentativas é mostrado, e o jogo pode ser reiniciado.
-
-## Como Executar o Projeto
-
-1. Clone o repositório para a sua máquina local:
-   ```bash
-   git clone https://github.com/anielilondero/Curso-LogicaDeProgramacao.git
